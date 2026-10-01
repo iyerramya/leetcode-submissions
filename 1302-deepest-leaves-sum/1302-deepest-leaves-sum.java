@@ -15,27 +15,30 @@
  */
 class Solution {
     public int deepestLeavesSum(TreeNode root) {
-        if(root == null) {
-            return 0;
-        }
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
+        ArrayDeque<TreeNode> nextLevel = new ArrayDeque(),
+        currLevel = new ArrayDeque();
 
-        int sum = 0;
-        while(!q.isEmpty()) {
-            int size = q.size();
-            sum = 0;
-            for(int i=0; i<size; i++) {
-                TreeNode curr = q.poll();
-                sum += curr.val;
-                if(curr.left!=null) {
-                    q.offer(curr.left);
+        nextLevel.offer(root);
+        
+        while(!nextLevel.isEmpty()) {
+            currLevel = nextLevel.clone();
+            nextLevel.clear();
+
+            for(TreeNode node: currLevel) {
+                if(node.left != null) {
+                    nextLevel.offer(node.left);
                 }
-                if(curr.right!=null) {
-                    q.offer(curr.right);
+                if(node.right != null) {
+                    nextLevel.offer(node.right);
                 }
             }
         }
-        return sum; 
+
+        int deepSum = 0;
+        for(TreeNode node : currLevel) {
+            deepSum += node.val;
+        }
+
+        return deepSum;
     }
 }
