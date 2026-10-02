@@ -28,38 +28,65 @@
  */
 class Solution {
     public int depthSumInverse(List<NestedInteger> nestedList) {
-        int maxDepth = 1;
-        for(NestedInteger ni: nestedList) {
-            maxDepth = Math.max(maxDepth(ni,1),maxDepth);
-        }
-        int total = 0;
-        for(NestedInteger ni: nestedList) {
-            total += sum(ni, 1, maxDepth);
-        }
-        return total;
+        // int maxDepth = 1;
+        // for(NestedInteger ni: nestedList) {
+        //     maxDepth = Math.max(maxDepth(ni,1),maxDepth);
+        // }
+        // int total = 0;
+        // for(NestedInteger ni: nestedList) {
+        //     total += sum(ni, 1, maxDepth);
+        // }
+        // return total;
+        int maxDepth = maxDepth(nestedList);
+        return sum(nestedList, 1, maxDepth);
     }
 
-    private int sum(NestedInteger ni, int depth, int maxDepth) {
-        if(ni.isInteger()) {
-            return (maxDepth - depth + 1) * ni.getInteger();
-        }
-        depth += 1;
-        int total = 0;
-        for(NestedInteger element : ni.getList()) {
-            total += sum(element, depth, maxDepth);
-        }
-        return total;
-    }
-
-    private int maxDepth(NestedInteger ni, int depth) {
-        if(ni.isInteger()) {
-            return depth;
-        }
-        depth += 1;
+    private int maxDepth(List<NestedInteger> nestedList) {
         int maxDepth = 1;
-        for(NestedInteger element : ni.getList()) {
-           maxDepth = Math.max(maxDepth, maxDepth(element, depth));
+
+        for(NestedInteger nested : nestedList) {
+            if(!nested.isInteger() && nested.getList().size() > 0 ) {
+                maxDepth = Math.max(maxDepth, 1+maxDepth(nested.getList()));
+            }
         }
         return maxDepth;
     }
+
+    private int sum(List<NestedInteger> nestedList, int depth, int maxDepth) {
+        int sum = 0;
+
+        for(NestedInteger nested: nestedList) {
+            if(nested.isInteger()) {
+                sum += (maxDepth - depth + 1) * nested.getInteger();
+            } else {
+                sum += sum(nested.getList(), depth+1, maxDepth);
+            }
+        }
+        return sum;
+    }
+
+
+    // private int sum(NestedInteger ni, int depth, int maxDepth) {
+        // if(ni.isInteger()) {
+        //     return (maxDepth - depth + 1) * ni.getInteger();
+        // }
+        // depth += 1;
+        // int total = 0;
+        // for(NestedInteger element : ni.getList()) {
+        //     total += sum(element, depth, maxDepth);
+        // }
+        // return total;
+    // }
+
+    // private int maxDepth(NestedInteger ni, int depth) {
+        // if(ni.isInteger()) {
+        //     return depth;
+        // }
+        // depth += 1;
+        // int maxDepth = 1;
+        // for(NestedInteger element : ni.getList()) {
+        //    maxDepth = Math.max(maxDepth, maxDepth(element, depth));
+        // }
+        // return maxDepth;
+    // }
 }
