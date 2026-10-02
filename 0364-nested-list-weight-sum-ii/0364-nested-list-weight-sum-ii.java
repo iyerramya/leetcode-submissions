@@ -26,6 +26,17 @@
  *     public List<NestedInteger> getList();
  * }
  */
+ class WeightedSumTriplet {
+    int maxDepth;
+    int sumOfElements;
+    int sumOfProducts;
+
+    public WeightedSumTriplet(int maxDepth, int sumOfElements, int sumOfProducts) {
+        this.maxDepth = maxDepth;
+        this.sumOfElements = sumOfElements;
+        this.sumOfProducts = sumOfProducts;
+    }
+ }
 class Solution {
     public int depthSumInverse(List<NestedInteger> nestedList) {
         // int maxDepth = 1;
@@ -37,8 +48,39 @@ class Solution {
         //     total += sum(ni, 1, maxDepth);
         // }
         // return total;
-        int maxDepth = maxDepth(nestedList);
-        return sum(nestedList, 1, maxDepth);
+
+        //int maxDepth = maxDepth(nestedList);
+        //return sum(nestedList, 1, maxDepth);
+
+        WeightedSumTriplet weighetSumTripet = getWeightedSumTriplet(nestedList, 1);
+        int maxDepth = weighetSumTripet.maxDepth;
+        int sumOfElements = weighetSumTripet.sumOfElements;
+        int sumOfProducts = weighetSumTripet.sumOfProducts;
+
+        return (maxDepth + 1) * sumOfElements - sumOfProducts;
+    }
+
+    private WeightedSumTriplet getWeightedSumTriplet(List<NestedInteger> nestedList, int depth) {
+        int sumOfProducts = 0;
+        int sumOfElements = 0;
+        int maxDepth = 0;
+
+        for(NestedInteger nested : nestedList) {
+            if(nested.isInteger()) {
+                sumOfProducts += nested.getInteger() * depth;
+                sumOfElements += nested.getInteger();
+                maxDepth = Math.max(depth, maxDepth);
+            } else {
+                WeightedSumTriplet result = getWeightedSumTriplet(
+                    nested.getList(),
+                    depth+1
+                );
+                sumOfProducts += result.sumOfProducts;
+                sumOfElements += result.sumOfElements;
+                maxDepth = Math.max(maxDepth, result.maxDepth);
+            }
+        }
+        return new WeightedSumTriplet(maxDepth, sumOfElements, sumOfProducts);
     }
 
     private int maxDepth(List<NestedInteger> nestedList) {
