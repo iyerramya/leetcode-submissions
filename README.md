@@ -49,4 +49,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0364-nested-list-weight-sum-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/iyerramya/leetcode-submissions/tree/main/0319-bulb-switcher/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/iyerramya/leetcode-submissions/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
