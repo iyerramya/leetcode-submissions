@@ -1,44 +1,35 @@
-class Solution {
-    private static final int[][] dirs = {{1,0},{-1,0},{0,1},{0,-1}};
+public class Solution {
+    private int ROWS, COLS;
+
     public boolean exist(char[][] board, String word) {
-        int m = board.length;
-        int n = board[0].length;
-        boolean[][] visited = new boolean[m][n];
-        for(int i=0; i<m; i++) {
-            for(int j=0; j<n; j++) {
-                if(board[i][j] == word.charAt(0)) {
-                    if(dfs(word, board, i, j, 0, visited)) {
-                        return true;
-                    }
+        ROWS = board.length;
+        COLS = board[0].length;
+
+        for (int r = 0; r < ROWS; r++) {
+            for (int c = 0; c < COLS; c++) {
+                if (dfs(board, word, r, c, 0)) {
+                    return true;
                 }
             }
         }
-        return false; 
+        return false;
     }
 
-    private boolean dfs(String word, char[][] board, int i, int j, int c, boolean[][] visited) {
-        if(i<0 || i>=board.length || j<0 || j>=board[0].length) {
-            return false;
-        }
-        if(c == word.length()) {
+    private boolean dfs(char[][] board, String word, int r, int c, int i) {
+        if (i == word.length()) {
             return true;
         }
-        if(visited[i][j] == true) {
-            return false;
-        }
-        if(board[i][j] != word.charAt(c)) {
+        if (r < 0 || c < 0 || r >= ROWS || c >= COLS ||
+            board[r][c] != word.charAt(i) || board[r][c] == '#') {
             return false;
         }
 
-        visited[i][j] = true;
-
-        for(int[] dir: dirs) {
-            if(dfs(word, board, i+dir[0], j+dir[1], c+1, visited)) {
-                visited[i][j] = false;
-                return true;
-            }
-        }
-        visited[i][j] = false;
-        return false;
+        board[r][c] = '#';
+        boolean res = dfs(board, word, r + 1, c, i + 1) ||
+                      dfs(board, word, r - 1, c, i + 1) ||
+                      dfs(board, word, r, c + 1, i + 1) ||
+                      dfs(board, word, r, c - 1, i + 1);
+        board[r][c] = word.charAt(i);
+        return res;
     }
 }
