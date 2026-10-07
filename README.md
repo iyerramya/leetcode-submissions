@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/iyerramya/leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0319-bulb-switcher](https://github.com/iyerramya/leetcode-submissions/tree/main/0319-bulb-switcher/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -100,4 +101,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/iyerramya/leetcode-submissions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/iyerramya/leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/iyerramya/leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
