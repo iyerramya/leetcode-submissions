@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/iyerramya/leetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
 | [0079-word-search](https://github.com/iyerramya/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0198-house-robber](https://github.com/iyerramya/leetcode-submissions/tree/main/0198-house-robber/) | Medium |
+| [0243-shortest-word-distance](https://github.com/iyerramya/leetcode-submissions/tree/main/0243-shortest-word-distance/) | Easy |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/iyerramya/leetcode-submissions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0605-can-place-flowers](https://github.com/iyerramya/leetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iyerramya/leetcode-submissions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/iyerramya/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/iyerramya/leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0243-shortest-word-distance](https://github.com/iyerramya/leetcode-submissions/tree/main/0243-shortest-word-distance/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
