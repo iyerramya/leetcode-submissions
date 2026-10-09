@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0567-permutation-in-string](https://github.com/iyerramya/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/iyerramya/leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0243-shortest-word-distance](https://github.com/iyerramya/leetcode-submissions/tree/main/0243-shortest-word-distance/) | Easy |
+| [0567-permutation-in-string](https://github.com/iyerramya/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +127,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iyerramya/leetcode-submissions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/iyerramya/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/iyerramya/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
