@@ -12,17 +12,14 @@ class Solution {
 
         int start = 0, end = 0;
         while(end < s1.length()) {
-            windowFrequency[s2.charAt(end)-'a']++;
-            end++;
+            windowFrequency[s2.charAt(end++)-'a']++;
         }
         if(Arrays.equals(s1Frequency, windowFrequency)) {
             return true;
         }
         while(end < s2.length()) {
-            windowFrequency[s2.charAt(start)-'a']--;
-            windowFrequency[s2.charAt(end)-'a']++;
-            start++;
-            end++;
+            windowFrequency[s2.charAt(start++)-'a']--;
+            windowFrequency[s2.charAt(end++)-'a']++;
             if(Arrays.equals(s1Frequency, windowFrequency)) {
                 return true;
             }
