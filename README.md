@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/iyerramya/leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0339-nested-list-weight-sum](https://github.com/iyerramya/leetcode-submissions/tree/main/0339-nested-list-weight-sum/) | Medium |
 | [0364-nested-list-weight-sum-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
+| [0547-number-of-provinces](https://github.com/iyerramya/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/iyerramya/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/iyerramya/leetcode-submissions/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0339-nested-list-weight-sum](https://github.com/iyerramya/leetcode-submissions/tree/main/0339-nested-list-weight-sum/) | Medium |
 | [0364-nested-list-weight-sum-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
+| [0547-number-of-provinces](https://github.com/iyerramya/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/iyerramya/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/iyerramya/leetcode-submissions/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -73,10 +75,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/iyerramya/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/iyerramya/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/iyerramya/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/iyerramya/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
