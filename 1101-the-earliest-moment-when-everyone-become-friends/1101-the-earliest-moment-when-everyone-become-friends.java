@@ -8,29 +8,27 @@ class Solution {
                 return tsp1.compareTo(tsp2);
             }
         });
+        int groupCount = n;
         UnionFind uf = new UnionFind(n);
         for(int i=0; i<logs.length; i++) {
-            uf.createUnion(logs[i][0], logs[i][1], logs[i][2]);
-        }
-        int p =  uf.find(uf.parent[0]);
-        for(int i=1; i<uf.parent.length; i++) {
-            if(uf.find(i) != p) {
-                return -1;
+            if(uf.createUnion(logs[i][0], logs[i][1], logs[i][2])) {
+                groupCount -= 1;
+            }
+            if(groupCount == 1) {
+                return logs[i][0];
             }
         }
-        return uf.earliesAcq[p];
+        return -1;
     }
 }
 
 class UnionFind {
     int[] rank;
     int[] parent;
-    int[] earliesAcq;
 
     public UnionFind(int n) {
         rank = new int[n];
         parent = new int[n];
-        earliesAcq = new int[n];
 
         for(int i=0; i<n; i++) {
             parent[i] = i;
@@ -44,33 +42,24 @@ class UnionFind {
         return parent[x];
     }
 
-    public void createUnion(int ts, int x, int y) {
+    public boolean createUnion(int ts, int x, int y) {
         int rootX = find(x);
         int rootY = find(y);
+        boolean isMerged = false;
 
         if(rootX == rootY) {
-            return;
+            return isMerged;
         }
-        int p;
+
+        isMerged = true;
         if(rank[rootX] > rank[rootY]) {
-            p = x;
             parent[rootY] = rootX;
         } else if(rank[rootY] > rank[rootX]) {
-            p = y;
             parent[rootX] = rootY;
         } else {
-            p = x;
             parent[rootY] = rootX;
             rank[rootX]++;
         }
-        updateTime(ts, p);
-    }
-
-    public void updateTime(int ts, int x) {
-        for(int i=0; i<parent.length; i++) {
-            if(find(parent[i]) == find(x)) {
-                earliesAcq[i] = ts;
-            }
-        }
+        return isMerged;
     }
 }
