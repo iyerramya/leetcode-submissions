@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/iyerramya/leetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0070-climbing-stairs](https://github.com/iyerramya/leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/iyerramya/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/iyerramya/leetcode-submissions/tree/main/0319-bulb-switcher/) | Medium |
@@ -165,9 +166,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/iyerramya/leetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0146-lru-cache](https://github.com/iyerramya/leetcode-submissions/tree/main/0146-lru-cache/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/iyerramya/leetcode-submissions/tree/main/0146-lru-cache/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/iyerramya/leetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
