@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0079-word-search](https://github.com/iyerramya/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0207-course-schedule](https://github.com/iyerramya/leetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/iyerramya/leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0261-graph-valid-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0261-graph-valid-tree/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/iyerramya/leetcode-submissions/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/iyerramya/leetcode-submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0207-course-schedule](https://github.com/iyerramya/leetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 | [0261-graph-valid-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0261-graph-valid-tree/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/iyerramya/leetcode-submissions/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0339-nested-list-weight-sum](https://github.com/iyerramya/leetcode-submissions/tree/main/0339-nested-list-weight-sum/) | Medium |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/iyerramya/leetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 | [0261-graph-valid-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0261-graph-valid-tree/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/iyerramya/leetcode-submissions/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/iyerramya/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
@@ -200,4 +203,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/iyerramya/leetcode-submissions/tree/main/0002-add-two-numbers/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/iyerramya/leetcode-submissions/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/iyerramya/leetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
