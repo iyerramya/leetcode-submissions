@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/iyerramya/leetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iyerramya/leetcode-submissions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/iyerramya/leetcode-submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/iyerramya/leetcode-submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/iyerramya/leetcode-submissions/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/iyerramya/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0567-permutation-in-string](https://github.com/iyerramya/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/iyerramya/leetcode-submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/iyerramya/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/iyerramya/leetcode-submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
