@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/iyerramya/leetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/iyerramya/leetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
 | [0079-word-search](https://github.com/iyerramya/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0189-rotate-array](https://github.com/iyerramya/leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/iyerramya/leetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0146-lru-cache](https://github.com/iyerramya/leetcode-submissions/tree/main/0146-lru-cache/) | Medium |
 | [0202-happy-number](https://github.com/iyerramya/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/iyerramya/leetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/iyerramya/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/iyerramya/leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/iyerramya/leetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/iyerramya/leetcode-submissions/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
