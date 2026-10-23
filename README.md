@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/iyerramya/leetcode-submissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/iyerramya/leetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/iyerramya/leetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/iyerramya/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/iyerramya/leetcode-submissions/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/iyerramya/leetcode-submissions/tree/main/0066-plus-one/) | Easy |
 | [0079-word-search](https://github.com/iyerramya/leetcode-submissions/tree/main/0079-word-search/) | Medium |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/iyerramya/leetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/iyerramya/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/iyerramya/leetcode-submissions/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -227,4 +229,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/iyerramya/leetcode-submissions/tree/main/0207-course-schedule/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/iyerramya/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
