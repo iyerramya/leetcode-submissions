@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/iyerramya/leetcode-submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/iyerramya/leetcode-submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/iyerramya/leetcode-submissions/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
+| [2043-simple-bank-system](https://github.com/iyerramya/leetcode-submissions/tree/main/2043-simple-bank-system/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/iyerramya/leetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
+| [2043-simple-bank-system](https://github.com/iyerramya/leetcode-submissions/tree/main/2043-simple-bank-system/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/iyerramya/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/iyerramya/leetcode-submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1166-design-file-system](https://github.com/iyerramya/leetcode-submissions/tree/main/1166-design-file-system/) | Medium |
+| [2043-simple-bank-system](https://github.com/iyerramya/leetcode-submissions/tree/main/2043-simple-bank-system/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/iyerramya/leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [1166-design-file-system](https://github.com/iyerramya/leetcode-submissions/tree/main/1166-design-file-system/) | Medium |
+| [2043-simple-bank-system](https://github.com/iyerramya/leetcode-submissions/tree/main/2043-simple-bank-system/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
