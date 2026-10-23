@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/iyerramya/leetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iyerramya/leetcode-submissions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/iyerramya/leetcode-submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0794-valid-tic-tac-toe-state](https://github.com/iyerramya/leetcode-submissions/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/iyerramya/leetcode-submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/iyerramya/leetcode-submissions/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
 | [2043-simple-bank-system](https://github.com/iyerramya/leetcode-submissions/tree/main/2043-simple-bank-system/) | Medium |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/iyerramya/leetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
 | [0079-word-search](https://github.com/iyerramya/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0348-design-tic-tac-toe](https://github.com/iyerramya/leetcode-submissions/tree/main/0348-design-tic-tac-toe/) | Medium |
+| [0794-valid-tic-tac-toe-state](https://github.com/iyerramya/leetcode-submissions/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
