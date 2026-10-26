@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/iyerramya/leetcode-submissions/tree/main/0198-house-robber/) | Medium |
 | [0243-shortest-word-distance](https://github.com/iyerramya/leetcode-submissions/tree/main/0243-shortest-word-distance/) | Easy |
 | [0252-meeting-rooms](https://github.com/iyerramya/leetcode-submissions/tree/main/0252-meeting-rooms/) | Easy |
+| [0253-meeting-rooms-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/iyerramya/leetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0348-design-tic-tac-toe](https://github.com/iyerramya/leetcode-submissions/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/iyerramya/leetcode-submissions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0253-meeting-rooms-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/iyerramya/leetcode-submissions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0253-meeting-rooms-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/iyerramya/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0605-can-place-flowers](https://github.com/iyerramya/leetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
 ## Binary Search
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/iyerramya/leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/iyerramya/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
+| [0253-meeting-rooms-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/iyerramya/leetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0567-permutation-in-string](https://github.com/iyerramya/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 ## Sliding Window
@@ -212,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/iyerramya/leetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/iyerramya/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0252-meeting-rooms](https://github.com/iyerramya/leetcode-submissions/tree/main/0252-meeting-rooms/) | Easy |
+| [0253-meeting-rooms-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/iyerramya/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/iyerramya/leetcode-submissions/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
 ## Linked List
@@ -240,4 +245,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/iyerramya/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0252-meeting-rooms](https://github.com/iyerramya/leetcode-submissions/tree/main/0252-meeting-rooms/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0253-meeting-rooms-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0253-meeting-rooms-ii/) | Medium |
 <!---LeetCode Topics End-->
