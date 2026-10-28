@@ -13,19 +13,12 @@ class Solution {
             indegree.put(t[1], indegree.get(t[1])+1);
         }
 
-        List<Integer> maybeJudges = new ArrayList<>();
 
         for(int entry : outdegree.keySet()) {
             if(outdegree.get(entry)==0) {
-                maybeJudges.add(entry);
-            }
-        }
-        if(maybeJudges.isEmpty()) {
-            return -1;
-        }
-        for(int maybeJudge : maybeJudges) {
-            if(indegree.get(maybeJudge) == n-1) {
-                return maybeJudge;
+                if(indegree.get(entry) == n-1) {
+                return entry;
+                }    
             }
         }
         return -1;
