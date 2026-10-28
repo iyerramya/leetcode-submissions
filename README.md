@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/iyerramya/leetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 | [0261-graph-valid-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0261-graph-valid-tree/) | Medium |
+| [0277-find-the-celebrity](https://github.com/iyerramya/leetcode-submissions/tree/main/0277-find-the-celebrity/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/iyerramya/leetcode-submissions/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/iyerramya/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/iyerramya/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/iyerramya/leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/iyerramya/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0277-find-the-celebrity](https://github.com/iyerramya/leetcode-submissions/tree/main/0277-find-the-celebrity/) | Medium |
 | [0283-move-zeroes](https://github.com/iyerramya/leetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0567-permutation-in-string](https://github.com/iyerramya/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 ## Sliding Window
@@ -252,4 +254,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0253-meeting-rooms-ii/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0277-find-the-celebrity](https://github.com/iyerramya/leetcode-submissions/tree/main/0277-find-the-celebrity/) | Medium |
 <!---LeetCode Topics End-->
