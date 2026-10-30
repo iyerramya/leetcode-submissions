@@ -1,49 +1,42 @@
- class Solution {
+class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-                int[] dependency = new int[numCourses]; 
-        HashMap<Integer, List> map = new HashMap<Integer, List>();
-        
-        for(int i=0; i<prerequisites.length; i++) {
-            //dependency array
-            dependency[prerequisites[i][0]]++;
-            
-            //mapping dependencies
-            
-            if(!map.containsKey(prerequisites[i][1])) { 
-                map.put(prerequisites[i][1], new ArrayList<Integer>());
+        int[] indegree = new int[numCourses];
+        Map<Integer, List<Integer>> outdegree = new HashMap<>();
+
+        for(int[] prerequisite : prerequisites) {
+            indegree[prerequisite[1]]++;
+            if(!outdegree.containsKey(prerequisite[0])) {
+                outdegree.put(prerequisite[0], new ArrayList<>());
             }
-            map.get(prerequisites[i][1]).add(prerequisites[i][0]);  
+            outdegree.get(prerequisite[0]).add(prerequisite[1]);
         }
-        
-        Queue<Integer> q = new LinkedList<>();
-        
-        for(int i=0; i<dependency.length; i++) {
-            if(dependency[i] == 0) {
-                q.add(i);
+
+        Queue<Integer> q = new ArrayDeque<>();
+        int completedCourses = 0;
+
+        for(int i=0; i<numCourses; i++) {
+            if(indegree[i] == 0) {
+                completedCourses += 1;
+                q.offer(i);
             }
         }
-        
+
         while(!q.isEmpty()) {
-            int dep = q.poll();
-            if(map.containsKey(dep)) {
-                List<Integer> temp = map.get(dep);
-                for(int i=0; i<temp.size(); i++) {
-                    int val = temp.get(i);
-                    if( dependency[val] > 0) {
-                        dependency[val]--;
+            int curr = q.poll();
+            List<Integer> courses = outdegree.get(curr);
+            if(courses!=null) {
+                for(int i=0; i<courses.size(); i++) {
+                    indegree[courses.get(i)] -= 1;
+                    if(indegree[courses.get(i)] == 0) {
+                        completedCourses += 1;
+                        q.offer(courses.get(i));
                     }
-                    if(dependency[val] == 0) {
-                        q.add(val);
-                    }
-                }    
+                }
             }
+
         }
+
+        return completedCourses == numCourses;
         
-        for(int i=0; i<dependency.length; i++) {
-            if(dependency[i] > 0)
-                return false;
-        }
-        
-        return true;
     }
 }
