@@ -1,50 +1,34 @@
 class HitCounter {
-    List<Integer> list;
+
+    private int total;
+    private Deque<Pair<Integer, Integer>> hits;
 
     public HitCounter() {
-        list = new ArrayList<>();
+        this.total = 0;
+        this.hits = new LinkedList<Pair<Integer, Integer>>();
     }
     
     public void hit(int timestamp) {
-        list.add(timestamp);
+        if(this.hits.isEmpty() || this.hits.getLast().getKey()!=timestamp) {
+            this.hits.add(new Pair<Integer, Integer>(timestamp,1));
+        } else {
+            int prevCount = this.hits.getLast().getValue();
+            this.hits.removeLast();
+            this.hits.add(new Pair<Integer, Integer>(timestamp,prevCount+1));
+        }
+        this.total++;       
     }
     
     public int getHits(int timestamp) {
-        int end = timestamp;
-        int start = timestamp - (5*60) + 1;
-        int startIndex = getLowerBound(start);
-        int endIndex = getUpperBound(end);
-        return endIndex-startIndex;        
-    }
-
-    private int getLowerBound(int timestamp) {
-        int l = 0;
-        int r = list.size();
-
-        while(l < r) {
-            int mid = l + ((r-l)/2);
-            if(list.get(mid) < timestamp) {
-                l = mid + 1;
-            } else {
-                r = mid;
+        while(!this.hits.isEmpty()) {
+            int diff = timestamp-this.hits.getFirst().getKey();
+            if(diff>=300) {
+                this.total -= this.hits.getFirst().getValue();
+                this.hits.removeFirst();
             }
+            else break;
         }
-        return l;
-    }
-
-    private int getUpperBound(int timestamp) {
-        int l = 0;
-        int r = list.size();
-
-        while(l < r) {
-            int mid = l + ((r-l)/2);
-            if(list.get(mid) <= timestamp) {
-                l = mid + 1;
-            } else {
-                r = mid;
-            }
-        }
-        return l;
+        return this.total; 
     }
 }
 
