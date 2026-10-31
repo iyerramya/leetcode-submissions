@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/iyerramya/leetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0348-design-tic-tac-toe](https://github.com/iyerramya/leetcode-submissions/tree/main/0348-design-tic-tac-toe/) | Medium |
+| [0362-design-hit-counter](https://github.com/iyerramya/leetcode-submissions/tree/main/0362-design-hit-counter/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/iyerramya/leetcode-submissions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/iyerramya/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0605-can-place-flowers](https://github.com/iyerramya/leetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/iyerramya/leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0348-design-tic-tac-toe](https://github.com/iyerramya/leetcode-submissions/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/iyerramya/leetcode-submissions/tree/main/0359-logger-rate-limiter/) | Easy |
+| [0362-design-hit-counter](https://github.com/iyerramya/leetcode-submissions/tree/main/0362-design-hit-counter/) | Medium |
 | [1166-design-file-system](https://github.com/iyerramya/leetcode-submissions/tree/main/1166-design-file-system/) | Medium |
 | [2043-simple-bank-system](https://github.com/iyerramya/leetcode-submissions/tree/main/2043-simple-bank-system/) | Medium |
 ## Trie
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/iyerramya/leetcode-submissions/tree/main/0162-find-peak-element/) | Medium |
+| [0362-design-hit-counter](https://github.com/iyerramya/leetcode-submissions/tree/main/0362-design-hit-counter/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iyerramya/leetcode-submissions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -271,4 +274,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0359-logger-rate-limiter](https://github.com/iyerramya/leetcode-submissions/tree/main/0359-logger-rate-limiter/) | Easy |
+| [0362-design-hit-counter](https://github.com/iyerramya/leetcode-submissions/tree/main/0362-design-hit-counter/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0362-design-hit-counter](https://github.com/iyerramya/leetcode-submissions/tree/main/0362-design-hit-counter/) | Medium |
 <!---LeetCode Topics End-->
