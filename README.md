@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/iyerramya/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0348-design-tic-tac-toe](https://github.com/iyerramya/leetcode-submissions/tree/main/0348-design-tic-tac-toe/) | Medium |
+| [0359-logger-rate-limiter](https://github.com/iyerramya/leetcode-submissions/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0567-permutation-in-string](https://github.com/iyerramya/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/iyerramya/leetcode-submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0997-find-the-town-judge](https://github.com/iyerramya/leetcode-submissions/tree/main/0997-find-the-town-judge/) | Easy |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/iyerramya/leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0348-design-tic-tac-toe](https://github.com/iyerramya/leetcode-submissions/tree/main/0348-design-tic-tac-toe/) | Medium |
+| [0359-logger-rate-limiter](https://github.com/iyerramya/leetcode-submissions/tree/main/0359-logger-rate-limiter/) | Easy |
 | [1166-design-file-system](https://github.com/iyerramya/leetcode-submissions/tree/main/1166-design-file-system/) | Medium |
 | [2043-simple-bank-system](https://github.com/iyerramya/leetcode-submissions/tree/main/2043-simple-bank-system/) | Medium |
 ## Trie
@@ -265,4 +267,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0277-find-the-celebrity](https://github.com/iyerramya/leetcode-submissions/tree/main/0277-find-the-celebrity/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0359-logger-rate-limiter](https://github.com/iyerramya/leetcode-submissions/tree/main/0359-logger-rate-limiter/) | Easy |
 <!---LeetCode Topics End-->
