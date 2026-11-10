@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iyerramya/leetcode-submissions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/iyerramya/leetcode-submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0794-valid-tic-tac-toe-state](https://github.com/iyerramya/leetcode-submissions/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
+| [0846-hand-of-straights](https://github.com/iyerramya/leetcode-submissions/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/iyerramya/leetcode-submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0997-find-the-town-judge](https://github.com/iyerramya/leetcode-submissions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/iyerramya/leetcode-submissions/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0348-design-tic-tac-toe](https://github.com/iyerramya/leetcode-submissions/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/iyerramya/leetcode-submissions/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0567-permutation-in-string](https://github.com/iyerramya/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
+| [0846-hand-of-straights](https://github.com/iyerramya/leetcode-submissions/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/iyerramya/leetcode-submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0997-find-the-town-judge](https://github.com/iyerramya/leetcode-submissions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1166-design-file-system](https://github.com/iyerramya/leetcode-submissions/tree/main/1166-design-file-system/) | Medium |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/iyerramya/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0605-can-place-flowers](https://github.com/iyerramya/leetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
+| [0846-hand-of-straights](https://github.com/iyerramya/leetcode-submissions/tree/main/0846-hand-of-straights/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0252-meeting-rooms](https://github.com/iyerramya/leetcode-submissions/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/iyerramya/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0846-hand-of-straights](https://github.com/iyerramya/leetcode-submissions/tree/main/0846-hand-of-straights/) | Medium |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/iyerramya/leetcode-submissions/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
