@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/iyerramya/leetcode-submissions/tree/main/0036-valid-sudoku/) | Medium |
+| [0045-jump-game-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/iyerramya/leetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/iyerramya/leetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/iyerramya/leetcode-submissions/tree/main/0055-jump-game/) | Medium |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/iyerramya/leetcode-submissions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/iyerramya/leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iyerramya/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/iyerramya/leetcode-submissions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0253-meeting-rooms-ii/) | Medium |
