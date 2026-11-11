@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0339-nested-list-weight-sum](https://github.com/iyerramya/leetcode-submissions/tree/main/0339-nested-list-weight-sum/) | Medium |
 | [0364-nested-list-weight-sum-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
 | [0490-the-maze](https://github.com/iyerramya/leetcode-submissions/tree/main/0490-the-maze/) | Medium |
+| [0505-the-maze-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0505-the-maze-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/iyerramya/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/iyerramya/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0339-nested-list-weight-sum](https://github.com/iyerramya/leetcode-submissions/tree/main/0339-nested-list-weight-sum/) | Medium |
 | [0364-nested-list-weight-sum-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
 | [0490-the-maze](https://github.com/iyerramya/leetcode-submissions/tree/main/0490-the-maze/) | Medium |
+| [0505-the-maze-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0505-the-maze-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/iyerramya/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/iyerramya/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/iyerramya/leetcode-submissions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/iyerramya/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0490-the-maze](https://github.com/iyerramya/leetcode-submissions/tree/main/0490-the-maze/) | Medium |
+| [0505-the-maze-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0505-the-maze-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/iyerramya/leetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iyerramya/leetcode-submissions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/iyerramya/leetcode-submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -95,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/iyerramya/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0348-design-tic-tac-toe](https://github.com/iyerramya/leetcode-submissions/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0490-the-maze](https://github.com/iyerramya/leetcode-submissions/tree/main/0490-the-maze/) | Medium |
+| [0505-the-maze-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0505-the-maze-ii/) | Medium |
 | [0794-valid-tic-tac-toe-state](https://github.com/iyerramya/leetcode-submissions/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -135,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0261-graph-valid-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0261-graph-valid-tree/) | Medium |
 | [0277-find-the-celebrity](https://github.com/iyerramya/leetcode-submissions/tree/main/0277-find-the-celebrity/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/iyerramya/leetcode-submissions/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
+| [0505-the-maze-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0505-the-maze-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/iyerramya/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/iyerramya/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
 | [0997-find-the-town-judge](https://github.com/iyerramya/leetcode-submissions/tree/main/0997-find-the-town-judge/) | Easy |
@@ -192,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/iyerramya/leetcode-submissions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0505-the-maze-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0505-the-maze-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,4 +306,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0250-count-univalue-subtrees](https://github.com/iyerramya/leetcode-submissions/tree/main/0250-count-univalue-subtrees/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0505-the-maze-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0505-the-maze-ii/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0505-the-maze-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0505-the-maze-ii/) | Medium |
+## Heuristic Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0505-the-maze-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0505-the-maze-ii/) | Medium |
+## A* Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0505-the-maze-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0505-the-maze-ii/) | Medium |
 <!---LeetCode Topics End-->
