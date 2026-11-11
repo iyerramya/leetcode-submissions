@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/iyerramya/leetcode-submissions/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0339-nested-list-weight-sum](https://github.com/iyerramya/leetcode-submissions/tree/main/0339-nested-list-weight-sum/) | Medium |
 | [0364-nested-list-weight-sum-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
+| [0490-the-maze](https://github.com/iyerramya/leetcode-submissions/tree/main/0490-the-maze/) | Medium |
 | [0547-number-of-provinces](https://github.com/iyerramya/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/iyerramya/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/iyerramya/leetcode-submissions/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0339-nested-list-weight-sum](https://github.com/iyerramya/leetcode-submissions/tree/main/0339-nested-list-weight-sum/) | Medium |
 | [0364-nested-list-weight-sum-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0364-nested-list-weight-sum-ii/) | Medium |
+| [0490-the-maze](https://github.com/iyerramya/leetcode-submissions/tree/main/0490-the-maze/) | Medium |
 | [0547-number-of-provinces](https://github.com/iyerramya/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/iyerramya/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0362-design-hit-counter](https://github.com/iyerramya/leetcode-submissions/tree/main/0362-design-hit-counter/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/iyerramya/leetcode-submissions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/iyerramya/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0490-the-maze](https://github.com/iyerramya/leetcode-submissions/tree/main/0490-the-maze/) | Medium |
 | [0605-can-place-flowers](https://github.com/iyerramya/leetcode-submissions/tree/main/0605-can-place-flowers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iyerramya/leetcode-submissions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/iyerramya/leetcode-submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -91,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/iyerramya/leetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
 | [0079-word-search](https://github.com/iyerramya/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0348-design-tic-tac-toe](https://github.com/iyerramya/leetcode-submissions/tree/main/0348-design-tic-tac-toe/) | Medium |
+| [0490-the-maze](https://github.com/iyerramya/leetcode-submissions/tree/main/0490-the-maze/) | Medium |
 | [0794-valid-tic-tac-toe-state](https://github.com/iyerramya/leetcode-submissions/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
