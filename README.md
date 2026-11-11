@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/iyerramya/leetcode-submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0250-count-univalue-subtrees](https://github.com/iyerramya/leetcode-submissions/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/iyerramya/leetcode-submissions/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Depth-First Search
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/iyerramya/leetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/iyerramya/leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0250-count-univalue-subtrees](https://github.com/iyerramya/leetcode-submissions/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [0261-graph-valid-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0261-graph-valid-tree/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/iyerramya/leetcode-submissions/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0339-nested-list-weight-sum](https://github.com/iyerramya/leetcode-submissions/tree/main/0339-nested-list-weight-sum/) | Medium |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/iyerramya/leetcode-submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0250-count-univalue-subtrees](https://github.com/iyerramya/leetcode-submissions/tree/main/0250-count-univalue-subtrees/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/iyerramya/leetcode-submissions/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -289,4 +292,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0362-design-hit-counter](https://github.com/iyerramya/leetcode-submissions/tree/main/0362-design-hit-counter/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0250-count-univalue-subtrees](https://github.com/iyerramya/leetcode-submissions/tree/main/0250-count-univalue-subtrees/) | Medium |
 <!---LeetCode Topics End-->
