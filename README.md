@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/iyerramya/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/iyerramya/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/iyerramya/leetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/iyerramya/leetcode-submissions/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/iyerramya/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/iyerramya/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/iyerramya/leetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/iyerramya/leetcode-submissions/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0505-the-maze-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0505-the-maze-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/iyerramya/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/iyerramya/leetcode-submissions/tree/main/0684-redundant-connection/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/iyerramya/leetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0997-find-the-town-judge](https://github.com/iyerramya/leetcode-submissions/tree/main/0997-find-the-town-judge/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -198,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/iyerramya/leetcode-submissions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0505-the-maze-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0505-the-maze-ii/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/iyerramya/leetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/iyerramya/leetcode-submissions/tree/main/0198-house-robber/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/iyerramya/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/iyerramya/leetcode-submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/iyerramya/leetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0505-the-maze-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0505-the-maze-ii/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/iyerramya/leetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
