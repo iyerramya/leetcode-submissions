@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/iyerramya/leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/iyerramya/leetcode-submissions/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/iyerramya/leetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0243-shortest-word-distance](https://github.com/iyerramya/leetcode-submissions/tree/main/0243-shortest-word-distance/) | Easy |
 | [0252-meeting-rooms](https://github.com/iyerramya/leetcode-submissions/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0253-meeting-rooms-ii/) | Medium |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/iyerramya/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/iyerramya/leetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0348-design-tic-tac-toe](https://github.com/iyerramya/leetcode-submissions/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/iyerramya/leetcode-submissions/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0567-permutation-in-string](https://github.com/iyerramya/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iyerramya/leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/iyerramya/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/iyerramya/leetcode-submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Floyd's Cycle Finding Algorithm
