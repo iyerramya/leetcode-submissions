@@ -8,12 +8,9 @@ class Solution {
         for(int i=0; i<26; i++) {
             if(arr[i]%2 == 1) {
                 numOdds++;
-                if(numOdds > 1) {
-                    return false;
-                }
             }
         }
-        return true;
+        return numOdds <= 1;
         
     }
 }
