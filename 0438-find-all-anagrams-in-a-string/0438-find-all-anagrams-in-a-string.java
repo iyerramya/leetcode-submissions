@@ -10,15 +10,13 @@ class Solution {
         for(char c : p.toCharArray()) {
             pArr[c-'a']++;
         }
-        String pStr = Arrays.toString(pArr);
 
         int[] curr = new int[26];
         int start=0, end=0;
         while(end<s.length()) {
             curr[s.charAt(end)-'a']++;
             if((end-start)==p.length()-1) {
-                String currStr = Arrays.toString(curr);
-                if(currStr.equals(pStr)) {
+                if(Arrays.equals(pArr, curr)) {
                     res.add(start);
                 }
                 curr[s.charAt(start)-'a']--;
