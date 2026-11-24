@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/iyerramya/leetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0286-walls-and-gates](https://github.com/iyerramya/leetcode-submissions/tree/main/0286-walls-and-gates/) | Medium |
 | [0317-shortest-distance-from-all-buildings](https://github.com/iyerramya/leetcode-submissions/tree/main/0317-shortest-distance-from-all-buildings/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/iyerramya/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0348-design-tic-tac-toe](https://github.com/iyerramya/leetcode-submissions/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0362-design-hit-counter](https://github.com/iyerramya/leetcode-submissions/tree/main/0362-design-hit-counter/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/iyerramya/leetcode-submissions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/iyerramya/leetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0266-palindrome-permutation](https://github.com/iyerramya/leetcode-submissions/tree/main/0266-palindrome-permutation/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/iyerramya/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0348-design-tic-tac-toe](https://github.com/iyerramya/leetcode-submissions/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/iyerramya/leetcode-submissions/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/iyerramya/leetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/iyerramya/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/iyerramya/leetcode-submissions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0505-the-maze-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0505-the-maze-ii/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/iyerramya/leetcode-submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -283,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/iyerramya/leetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0252-meeting-rooms](https://github.com/iyerramya/leetcode-submissions/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/iyerramya/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/iyerramya/leetcode-submissions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0846-hand-of-straights](https://github.com/iyerramya/leetcode-submissions/tree/main/0846-hand-of-straights/) | Medium |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/iyerramya/leetcode-submissions/tree/main/1101-the-earliest-moment-when-everyone-become-friends/) | Medium |
@@ -355,4 +359,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0266-palindrome-permutation](https://github.com/iyerramya/leetcode-submissions/tree/main/0266-palindrome-permutation/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/iyerramya/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/iyerramya/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/iyerramya/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/iyerramya/leetcode-submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
