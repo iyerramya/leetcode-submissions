@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0243-shortest-word-distance](https://github.com/iyerramya/leetcode-submissions/tree/main/0243-shortest-word-distance/) | Easy |
 | [0252-meeting-rooms](https://github.com/iyerramya/leetcode-submissions/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0271-encode-and-decode-strings](https://github.com/iyerramya/leetcode-submissions/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0283-move-zeroes](https://github.com/iyerramya/leetcode-submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0286-walls-and-gates](https://github.com/iyerramya/leetcode-submissions/tree/main/0286-walls-and-gates/) | Medium |
 | [0317-shortest-distance-from-all-buildings](https://github.com/iyerramya/leetcode-submissions/tree/main/0317-shortest-distance-from-all-buildings/) | Hard |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/iyerramya/leetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0243-shortest-word-distance](https://github.com/iyerramya/leetcode-submissions/tree/main/0243-shortest-word-distance/) | Easy |
 | [0266-palindrome-permutation](https://github.com/iyerramya/leetcode-submissions/tree/main/0266-palindrome-permutation/) | Easy |
+| [0271-encode-and-decode-strings](https://github.com/iyerramya/leetcode-submissions/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/iyerramya/leetcode-submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/iyerramya/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [1166-design-file-system](https://github.com/iyerramya/leetcode-submissions/tree/main/1166-design-file-system/) | Medium |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/iyerramya/leetcode-submissions/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/iyerramya/leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0271-encode-and-decode-strings](https://github.com/iyerramya/leetcode-submissions/tree/main/0271-encode-and-decode-strings/) | Medium |
 | [0348-design-tic-tac-toe](https://github.com/iyerramya/leetcode-submissions/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/iyerramya/leetcode-submissions/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0362-design-hit-counter](https://github.com/iyerramya/leetcode-submissions/tree/main/0362-design-hit-counter/) | Medium |
