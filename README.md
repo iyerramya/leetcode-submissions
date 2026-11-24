@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/iyerramya/leetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/iyerramya/leetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
+| [0266-palindrome-permutation](https://github.com/iyerramya/leetcode-submissions/tree/main/0266-palindrome-permutation/) | Easy |
 | [0348-design-tic-tac-toe](https://github.com/iyerramya/leetcode-submissions/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0359-logger-rate-limiter](https://github.com/iyerramya/leetcode-submissions/tree/main/0359-logger-rate-limiter/) | Easy |
 | [0567-permutation-in-string](https://github.com/iyerramya/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/iyerramya/leetcode-submissions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0242-valid-anagram](https://github.com/iyerramya/leetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0243-shortest-word-distance](https://github.com/iyerramya/leetcode-submissions/tree/main/0243-shortest-word-distance/) | Easy |
+| [0266-palindrome-permutation](https://github.com/iyerramya/leetcode-submissions/tree/main/0266-palindrome-permutation/) | Easy |
 | [0567-permutation-in-string](https://github.com/iyerramya/leetcode-submissions/tree/main/0567-permutation-in-string/) | Medium |
 | [1166-design-file-system](https://github.com/iyerramya/leetcode-submissions/tree/main/1166-design-file-system/) | Medium |
 ## Design
@@ -346,4 +348,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0505-the-maze-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0505-the-maze-ii/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0266-palindrome-permutation](https://github.com/iyerramya/leetcode-submissions/tree/main/0266-palindrome-permutation/) | Easy |
 <!---LeetCode Topics End-->
