@@ -1,43 +1,33 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        int N = 9;
-
-        HashSet<Character>[] rows = new HashSet[N];
-        HashSet<Character>[] cols = new HashSet[N];
-        HashSet<Character>[] boxes = new HashSet[N];
-
-        for(int r=0; r<N; r++) {
-            rows[r] = new HashSet<>();
-            cols[r] = new HashSet<>();
-            boxes[r] = new HashSet<>();
+        List<Set<Character>> col = new ArrayList<>();
+        List<Set<Character>> box = new ArrayList<>();
+        for (int i = 0; i < 9; i++) {
+            col.add(new HashSet<>());
+            box.add(new HashSet<>());
         }
+        for (int i = 0; i < 9; i++) {
+            Set<Character> row = new HashSet<>();
+            for (int j = 0; j < 9; j++) {
+                if (board[i][j] != '.') {
+                    if (row.contains(board[i][j])) {
+                        return false;
+                    }
+                    row.add(board[i][j]);
 
-        for(int r=0; r<N; r++) {
-            for(int c=0; c<N; c++) {
-                if(board[r][c] == '.') {
-                    continue;
+                    if (col.get(j).contains(board[i][j])) {
+                        return false;
+                    }
+                    col.get(j).add(board[i][j]);
+
+                    int b = (i / 3) * 3 + j / 3;
+                    if(box.get(b).contains(board[i][j])) {
+                        return false;
+                    }
+                    box.get(b).add(board[i][j]);
                 }
-
-                char num = board[r][c];
-
-                if(rows[r].contains(num)) {
-                    return false;
-                }
-                rows[r].add(num);
-
-                if(cols[c].contains(num)) {
-                    return false;
-                }
-                cols[c].add(num);
-
-                int idx = (r / 3) * 3 + c / 3;
-                if (boxes[idx].contains(num)) {
-                    return false;
-                }
-                boxes[idx].add(num);                
             }
         }
-
         return true;
     }
 }
