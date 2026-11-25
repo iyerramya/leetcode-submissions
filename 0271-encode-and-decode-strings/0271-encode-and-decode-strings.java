@@ -5,8 +5,7 @@ public class Codec {
         StringBuilder sb = new StringBuilder();
 
         for(String s : strs) {
-            sb.append(s);
-            sb.append("π");
+            sb.append(s.replace("/", "//")).append("/:");
         }
 
         return sb.toString();
@@ -15,8 +14,24 @@ public class Codec {
 
     // Decodes a single string to a list of strings.
     public List<String> decode(String s) {
-        String[] decodedStrings = s.split("π", -1);
-        return new ArrayList<>(Arrays.asList(decodedStrings).subList(0, decodedStrings.length - 1));
+        List<String> decodedStrings = new ArrayList<>();
+        StringBuilder currentString = new StringBuilder();
+        int i = 0;
+        while(i < s.length()) {
+            if(i+1 < s.length() && s.charAt(i) == '/' && s.charAt(i+1) == ':') {
+                decodedStrings.add(currentString.toString());
+                currentString = new StringBuilder();
+                i += 2;
+            } else if(i+1 < s.length() && s.charAt(i) == '/' && s.charAt(i+1) == '/') {
+                currentString.append('/');
+                i += 2;
+            } else {
+                currentString.append(s.charAt(i));
+                i++;
+            }
+        }
+        return decodedStrings;
+
     }
 }
 
