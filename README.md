@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/iyerramya/leetcode-submissions/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iyerramya/leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/iyerramya/leetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0162-find-peak-element](https://github.com/iyerramya/leetcode-submissions/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/iyerramya/leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/iyerramya/leetcode-submissions/tree/main/0198-house-robber/) | Medium |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/iyerramya/leetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0261-graph-valid-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0261-graph-valid-tree/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/iyerramya/leetcode-submissions/tree/main/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0547-number-of-provinces](https://github.com/iyerramya/leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/iyerramya/leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/iyerramya/leetcode-submissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/iyerramya/leetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/iyerramya/leetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0146-lru-cache](https://github.com/iyerramya/leetcode-submissions/tree/main/0146-lru-cache/) | Medium |
 | [0202-happy-number](https://github.com/iyerramya/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/iyerramya/leetcode-submissions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
