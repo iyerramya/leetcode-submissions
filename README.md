@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/iyerramya/leetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/iyerramya/leetcode-submissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0045-jump-game-ii](https://github.com/iyerramya/leetcode-submissions/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/iyerramya/leetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/iyerramya/leetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/iyerramya/leetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iyerramya/leetcode-submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/iyerramya/leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/iyerramya/leetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/iyerramya/leetcode-submissions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/iyerramya/leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/iyerramya/leetcode-submissions/tree/main/0217-contains-duplicate/) | Easy |
