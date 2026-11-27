@@ -1,20 +1,22 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int min = Integer.MAX_VALUE;
-        int max = Integer.MIN_VALUE;
-        int maxProfit = 0;
-
-        for(int i=0; i<prices.length; i++) {
-            if(prices[i] < min) {
-                min = prices[i];
-                max = prices[i];
-            } else {
-                max = prices[i];
+        int buy =0;
+        int sell = 0;
+        int max = 0;
+        while(buy < prices.length && sell<prices.length) {
+            if(buy == sell) {
+                sell++;
+                continue;
             }
-            maxProfit = Math.max(maxProfit,(max-min));
+            if(prices[buy] > prices[sell]) {
+                buy++;
+            } else if(prices[buy] == prices[sell]) {
+                sell++;
+            } else if(prices[buy] < prices[sell]) {
+                max = Math.max(max, prices[sell]-prices[buy]);
+                sell++;
+            }
         }
-
-        return maxProfit;
-        
+        return max;
     }
 }
